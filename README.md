@@ -1,2 +1,14 @@
-# Ranking-abb-Java
-Sistema de ranking de jogadores utilizando Árvore Binária de Busca (ABB) em Java, com leitura de CSV e interface gráfica em Swing.
+# Ranking de Jogadores - ABB
+
+Projeto em Java utilizando Árvore Binária de Busca (ABB).
+
+## Funcionalidades
+- Inserção de jogadores
+- Busca por nickname
+- Remoção de jogadores
+- Leitura de CSV
+- Interface gráfica com visualização da árvore
+
+## Tecnologias
+- Java
+- Swing
