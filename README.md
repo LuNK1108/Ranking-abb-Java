@@ -7,7 +7,7 @@ Projeto em Java utilizando Árvore Binária de Busca (ABB).
 - Busca por nickname
 - Remoção de jogadores
 - Leitura de CSV
-- Interface gráfica com visualização da arvore
+- Interface gráfica com visualização da árvore
 
 ## Tecnologias
 - Java
